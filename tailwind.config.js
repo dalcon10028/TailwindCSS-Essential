@@ -2,6 +2,7 @@ module.exports = {
   content: [
     "./src/**/*.{html,js,ts,jsx,tsx}",
     "./examples/*.{html,js,ts,jsx,tsx}",
+    "./clone/*.{html,js,ts,jsx,tsx}",
   ],
   darkMode: "media",
   theme: {
